@@ -1,1 +1,1 @@
-print('Fuck the World!')
+print('Save the World!')
